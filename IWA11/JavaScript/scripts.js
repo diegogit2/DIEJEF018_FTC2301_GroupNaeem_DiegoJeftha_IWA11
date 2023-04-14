@@ -33,3 +33,4 @@ order3Biscuits.textContent = root3.dataset.biscuits
 order3Donuts.textContent = root3.dataset.donuts
 order3Pancakes.textContent = root3.dataset.pancakes
 order3Status.textContent = root3.status = "true" ? 'Delivered' : 'Pending'
+
